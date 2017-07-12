@@ -1,0 +1,14 @@
+.legend-animate-enter {
+    margin-top: 1px;
+}
+.legend-animate-enter-active {
+    margin-top: 50px;
+    transition: margin-top 3s ease-out;
+}
+.legend-animate-leave {
+    margin-top: 50px;
+}
+.legend-animate-leave-active {
+    margin-top: 1px;
+    transition: margin-top 3s ease-in;
+}

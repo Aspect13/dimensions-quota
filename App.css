@@ -1,0 +1,52 @@
+/*.boldHeader {*/
+    /*font-weight: bold;*/
+    /*user-select: None;*/
+/*}*/
+
+/*.cellTable {*/
+    /*width: auto !important;*/
+    /*display: inline-flex;*/
+/*}*/
+
+.rowTable {
+    /*!*width: auto !important;*!*/
+    display: table;
+
+}
+.rowTableTD {
+    min-width: 90px;
+    max-width: 120px;
+    padding: 0;
+    overflow: visible;
+    height: 23px;
+}
+
+.legend {
+    margin-top: 50px;
+    width: 220px;
+}
+
+.legend-table {
+    width: 90% !important;
+    margin: auto;
+}
+
+.cellColumn {
+    overflow: visible;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    background-color: #fce4ec;
+}
+
+/*.quotaTable {*/
+    /*overflow-x: auto;*/
+/*}*/
